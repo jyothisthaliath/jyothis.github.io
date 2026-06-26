@@ -3,11 +3,7 @@ layout: default
 title: Jyothis George Thaliath | Information Security Leader
 ---
 
-# Jyothis George Thaliath
-**Information Security & Cybersecurity Manager**  
-*Bridging the Gap Between Enterprise Risk Governance and Hands-On Infrastructure Architecture*
 
-[LinkedIn](https://linkedin.com/in/jyothisthaliath) | [Technical Showcase](#technical-project-portfolio) | [Career & Achievements](career.html) | [Secure Contact](contact.html)
 
 ---
 
