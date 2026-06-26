@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Headless Raspberry Pi Home Server & Infrastructure Services"
+title: "Raspberry Pi Home Server & Infrastructure Services"
 description: "Deploying a low-power, high-availability headless server to manage localized media storage, network-wide DNS sinkholing, and remote streaming infrastructure."
 category: project
 ---
-
+## Raspberry Pi Home Server & Infrastructure Services
 ### Project Overview
 This project involves building and maintaining a 24/7 dedicated low-power home server designed to handle critical network services, local network storage, and media transcoding pipelines. Operating strictly in a headless configuration, the environment maximizes system performance and uptime, serving as the central backbone for private cloud functions and network infrastructure management.
 
