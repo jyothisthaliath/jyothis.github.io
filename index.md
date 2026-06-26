@@ -12,18 +12,20 @@ title: Jyothis George Thaliath | Information Security Leader
 ---
 
 ## Executive Profile
-I am an Information Security leader with over 13 years of experience orchestrating enterprise-level security operations, strategic architecture, and regulatory compliance within the highly regulated banking and financial services sector. I specialize in safeguarding critical national infrastructure, modernizing Security Operations Centers (SOC), managing multi-million dollar defense budgets, and ensuring zero-adverse observations across complex regulatory frameworks.
+I manage enterprise security infrastructure and regulatory compliance within the banking sector. Over the past 13+ years, my work has focused on operating network security systems, modernizing Security Operations Centre (SOC), and coordinating technical project governance across cross-functional teams.
 
-Beyond enterprise governance, I maintain a strong engineering mindset. I actively build and experiment with self-hosted environments, automation scripts, and infrastructure deployment in my personal lab—giving me deep, hands-on insight into the technologies I protect.
+Outside of my day job, I maintain a home lab environment with self-hosted services. I experiment with automation scripts, and test infrastructure configurations. This site serves as a place to document those DIY projects and maintain a journal of my professional journey.
 
 ---
 
-## Core Pillars of Expertise
+## Areas of Focus
 
-*   **Cybersecurity Governance & Compliance:** Expert in RBI guidelines, ISO 27001, and PCI-DSS compliance frameworks.
-*   **Security Architecture & Operations:** Proven experience building Next-Generation SOCs and deploying 30+ advanced enterprise security controls.
+*   **Security Operations & Infrastructure:** Practical experience implementing advanced enterprise defensive solutions and overseeing continuous operational coverage.
+*   **Cybersecurity Governance & Compliance:** Navigating banking regulatory assessments (RBI) and technical audits
+*   **Project & Vendor Coordination:** Managing technology procurement pipelines, commercial negotiations, and Change Approval Board (CAB) workflows.
 *   **Data Protection & Perimeter Security:** Extensive background in Endpoint Protection, Data Loss Prevention (DLP), Zero Trust frameworks, and securing enterprise DNS/domain spaces.
-*   **DevSecOps & Infrastructure Automation:** Practical experience with infrastructure orchestration, containerization (Docker), and scripting for system audits.
+*   **DevSecOps & Infrastructure Automation:** Practical experience with infrastructure orchestration, containerization (Docker)
+*   **AI Implementation & Tooling: Developing conversational chatbots using large language models and incorporating AI-assisted workflows into code development. 
 
 ---
 
