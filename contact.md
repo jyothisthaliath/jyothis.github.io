@@ -16,7 +16,8 @@ If you would like to get in touch regarding professional inquiries, please use t
 
   <div style="display: flex; flex-direction: column; gap: 0.4rem;">
     <label for="email" style="font-weight: 600; font-size: 0.95rem;">Email Address</label>
-    <input type="email" name="_replyto" id="email" required style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem; width: 100%;">
+    <!-- Fixed name attribute to resolve Formspree validation error -->
+    <input type="email" name="email" id="email" required style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem; width: 100%;">
   </div>
 
   <div style="display: flex; flex-direction: column; gap: 0.4rem;">
@@ -37,5 +38,3 @@ If you would like to get in touch regarding professional inquiries, please use t
   </div>
 
 </form>
-
----
