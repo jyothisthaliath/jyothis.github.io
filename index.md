@@ -21,6 +21,6 @@ Outside of my day job, I maintain a home lab environment with self-hosted servic
 *   **Project & Vendor Coordination:** Managing technology procurement pipelines, commercial negotiations, and Change Approval Board (CAB) workflows.
 *   **Data Protection & Perimeter Security:** Extensive background in Endpoint Protection, Data Loss Prevention (DLP), Zero Trust frameworks, and securing enterprise DNS/domain spaces.
 *   **DevSecOps & Infrastructure Automation:** Practical experience with infrastructure orchestration, containerization (Docker)
-*   **AI Implementation & Tooling: Developing conversational chatbots using large language models and incorporating AI-assisted workflows into code development. 
+*   **AI Implementation & Tooling:** Developing conversational chatbots using large language models and incorporating AI-assisted workflows into code development. 
 
 ---
