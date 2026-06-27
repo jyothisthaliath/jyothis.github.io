@@ -7,7 +7,6 @@ I manage enterprise security infrastructure and regulatory compliance within the
 
 Outside of my day job, I maintain a home lab environment with self-hosted services. I experiment with automation scripts, and test infrastructure configurations.  
 
-
 ## Areas of Focus
 
 <div class="focus-grid">

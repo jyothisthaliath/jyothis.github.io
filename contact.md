@@ -7,8 +7,6 @@ title: Contact
 
 If you would like to get in touch regarding professional inquiries, please use the form below.
 
----
-
 <div class="contact-card">
   <form action="https://formspree.io/f/xojodldd" method="POST" class="contact-form">
 
