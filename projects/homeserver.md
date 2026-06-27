@@ -43,6 +43,7 @@ This helps distribute locally stored media files to my Kodi home entertainment s
 ### Thermal Engineering & Infrastructure Reliability
 Because I run multiple services on this machine simultaneously, it generates a decent amount of heat. Keeping it cool was a major priority to ensure the network stays up:
 
-* **Hardware Optimization:** To avoid thermal throttling under heavy loads, I upgraded the setup with a heavy-duty metallic cooling case and dual CPU fans. You can find the exact enclosure I used via this [Robocraze Metal Aluminium Case with Dual Fans](https://robocraze.com/products/raspberry-pi-metal-aluminium-case-with-double-fans-for-raspberry-pi-4b-black?variant=40193827471513) buy link.
+* **Hardware Optimization:** To avoid thermal throttling under heavy loads, I upgraded the setup with a heavy-duty metallic cooling case and dual CPU fans. You can find the exact enclosure I used here: [Robocraze Metal Aluminium Case with Dual Fans](https://robocraze.com/products/raspberry-pi-metal-aluminium-case-with-double-fans-for-raspberry-pi-4b-black?variant=40193827471513)
 * **High Availability Considerations:** Keeping the thermals down is critical because the Pi hosts crucial network architecture like my DNS server. If the Pi fails or overheats, I will face network issues and internet dropouts until the fallback DNS kicks in. This active cooling setup ensures things stay up and running smoothly.
+
 ---
