@@ -15,19 +15,17 @@
 
     <header class="site-hero" id="site-hero">
       <div class="site-hero-inner">
-        <div class="hero-profile">
-          <img src="{{ '/images/jyothis.jpg' | relative_url }}" alt="Jyothis George Thaliath" class="hero-photo">
-          <div class="hero-content">
-            <h1 class="hero-name">Jyothis George Thaliath</h1>
-            <p class="hero-title">Senior Manager – Information Security · Union Bank of India</p>
-            <p class="hero-tagline">Translating security strategy into resilient banking infrastructure</p>
-          </div>
+        <img src="{{ '/images/jyothis.jpg' | relative_url }}" alt="Jyothis George Thaliath" class="hero-photo">
+        <div class="hero-content">
+          <h1 class="hero-name">Jyothis George Thaliath</h1>
+          <p class="hero-title">Senior Manager – Information Security · Union Bank of India</p>
+          <p class="hero-tagline">Translating security strategy into resilient banking infrastructure</p>
         </div>
         <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
         <label for="nav-toggle" class="nav-hamburger" aria-label="Toggle navigation">
           <span></span><span></span><span></span>
         </label>
-        <nav>
+        <nav class="hero-nav">
           <ul class="nav-links" role="list">
             <li><a href="{{ '/' | relative_url }}" class="nav-link{% if page.url == '/' %} active{% endif %}">Home</a></li>
             <li><a href="{{ '/projects.html' | relative_url }}" class="nav-link{% if page.url == '/projects.html' %} active{% endif %}">Projects</a></li>
