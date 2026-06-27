@@ -271,6 +271,10 @@ strong {
 }
 
 @media (max-width: 640px) {
+  html {
+    font-size: 15px;
+  }
+
   .site-hero-inner {
     display: grid;
     grid-template-columns: auto 1fr;
@@ -341,12 +345,16 @@ strong {
   }
 
   .hero-photo {
-    width: 52px;
-    height: 52px;
+    width: 68px;
+    height: 68px;
   }
 
   .hero-name {
-    font-size: 1rem;
+    font-size: 1.25rem;
+  }
+
+  .hero-title {
+    font-size: 0.9rem;
   }
 
   .hero-tagline {
