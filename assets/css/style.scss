@@ -63,10 +63,10 @@ a:hover { color: var(--accent-hover); text-decoration: underline; }
 
 /* --- Typography --- */
 h1, h2, h3, h4 { font-weight: 600; line-height: 1.3; color: var(--text-primary); margin-bottom: 0.5em; }
-h1 { font-size: 2rem; letter-spacing: -0.02em; }
-h2 { font-size: 1.4rem; margin-top: 2.5rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border-muted); }
-h3 { font-size: 1.1rem; margin-top: 1.5rem; color: var(--text-secondary); }
-h4 { font-size: 0.95rem; color: var(--text-secondary); }
+h1 { font-size: 1.75rem; letter-spacing: -0.02em; }
+h2 { font-size: 1.2rem; margin-top: 2.25rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border-muted); }
+h3 { font-size: 1.05rem; margin-top: 1.5rem; color: var(--text-secondary); }
+h4 { font-size: 1rem; color: var(--text-secondary); }
 
 p { margin-bottom: 1rem; color: var(--text-secondary); }
 
@@ -124,22 +124,22 @@ strong { font-weight: 600; color: var(--text-primary); }
 }
 
 .hero-name {
-  font-size: 1.15rem;
+  font-size: 1.3rem;
   font-weight: 700;
   letter-spacing: -0.015em;
   color: var(--text-primary);
-  margin: 0 0 0.15rem;
+  margin: 0 0 0.2rem;
 }
 
 .hero-title {
-  font-size: 0.82rem;
+  font-size: 0.9rem;
   font-weight: 600;
   color: var(--accent);
-  margin: 0 0 0.1rem;
+  margin: 0 0 0.15rem;
 }
 
 .hero-tagline {
-  font-size: 0.78rem;
+  font-size: 0.875rem;
   color: var(--text-muted);
   margin: 0;
   line-height: 1.4;
@@ -163,8 +163,8 @@ strong { font-weight: 600; color: var(--text-primary); }
 
 .nav-link {
   display: inline-block;
-  padding: 0.38rem 0.7rem;
-  font-size: 0.875rem;
+  padding: 0.38rem 0.75rem;
+  font-size: 0.9rem;
   font-weight: 500;
   color: var(--text-secondary) !important;
   text-decoration: none !important;
@@ -264,20 +264,20 @@ strong { font-weight: 600; color: var(--text-primary); }
 }
 
 .focus-card-title {
-  font-size: 0.85rem;
+  font-size: 0.925rem;
   font-weight: 700;
   color: var(--accent);
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.4rem;
   display: flex;
   align-items: center;
   gap: 0.4rem;
 }
 
 .focus-card p {
-  font-size: 0.82rem;
+  font-size: 0.9rem;
   color: var(--text-muted);
   margin: 0;
-  line-height: 1.5;
+  line-height: 1.55;
 }
 
 @media (max-width: 560px) {
